@@ -1,0 +1,54 @@
+# Archivos de Python generados
+__pycache__/
+*.pyc
+*.pyd
+.Python
+
+# Entornos virtuales
+env/
+venv/
+\*env/
+\*venv/
+.env
+.venv
+
+# Dependencias empaquetadas
+/build
+/dist
+/eggs
+\*.egg
+\*.whl
+/lib/\*\*/site-packages
+
+# Logs y archivos temporales
+\*.log
+\*.tmp
+\*.bak
+\*.swp
+db.sqlite3
+local_settings.py
+/instance
+
+# Editores de IDE y archivos específicos del sistema
+.idea/
+.vscode/
+\*.suo
+\*.ntvs\*
+\*.njsproj
+\*.sln
+\*.user
+/out/
+/export/
+
+# Archivos de datos
+\*.csv
+\*.dat
+\*.json
+\*.sqlite
+
+# Miscelánea
+/run
+/sdist
+/temp
+/tmp
+/docs/\_build
